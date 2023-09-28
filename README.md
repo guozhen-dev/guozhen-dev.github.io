@@ -9,5 +9,9 @@ Modified by Guozhen Ding as a Course Lab of ECE444
 ![Screenshot for activity 2](/not_shipping/screenshots/ECE444_L2_act2_depot.png)
 ![Screenshot for activity 2](/not_shipping/screenshots/ECE444_L2_act2_website.png)
 
+# Activity 3
+![Screenshot for activity 3](/not_shipping/screenshots/ECE444_L2_act3_depot.png)
+![Screenshot for activity 3](/not_shipping/screenshots/ECE444_L2_act3_website.png)
+
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
